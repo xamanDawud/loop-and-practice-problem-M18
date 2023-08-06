@@ -5,6 +5,6 @@
 
 var numbers = [23, 24, 56, 32, 65];
 
-for (var i = 0; i < 5; i++) {
+for (var i = 0; i < 5; numbers.length) {
   console.log(numbers[i]);
 }
